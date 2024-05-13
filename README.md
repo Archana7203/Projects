@@ -1,6 +1,6 @@
 # Projects
 I build projects related to AI/ML
 
-# 1. Hair Health Prediction
+# 1. Diabetes Prediction System
 
-This project predicts the presence or absence of baldness in individuals using different classification algorithms: naive Bayes, knn, decision tree, random forest classifier, and SVM. Hyperparameter tuning was performed on random forest classifier to identify the best parameters. The highest accuracy achieved was 54.56%. 0 indicates the absence of baldness and 1 indicates the presence of baldness. The user interfaces were also added using Gradio.
+This project predicts the presence or absence of diabetes in individuals using different classification algorithms: naive Bayes, knn, decision tree,random forest classifier, linear SVM. The highest accuracy achieved was 96.67%. 0 indicates the absence of diabetes and 1 indicates the presence of diabetes. The user interfaces were also added using Gradio.
